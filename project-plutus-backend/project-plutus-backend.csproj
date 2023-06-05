@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>project_plutus_backend</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="PresentationCore">
+        <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\6.0.5\PresentationCore.dll</HintPath>
+      </Reference>
+      <Reference Include="PresentationFramework">
+        <HintPath>..\..\..\..\..\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\6.0.5\PresentationFramework.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

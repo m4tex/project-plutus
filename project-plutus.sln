@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project-plutus", "project-plutus\project-plutus.csproj", "{D7DD2341-FD4C-4AC0-9C50-1A7C0FB7DC30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "project-plutus-backend", "project-plutus-backend\project-plutus-backend.csproj", "{E488B715-DF00-4731-BEB0-A8841EA85FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7DD2341-FD4C-4AC0-9C50-1A7C0FB7DC30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DD2341-FD4C-4AC0-9C50-1A7C0FB7DC30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DD2341-FD4C-4AC0-9C50-1A7C0FB7DC30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DD2341-FD4C-4AC0-9C50-1A7C0FB7DC30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E488B715-DF00-4731-BEB0-A8841EA85FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E488B715-DF00-4731-BEB0-A8841EA85FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E488B715-DF00-4731-BEB0-A8841EA85FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E488B715-DF00-4731-BEB0-A8841EA85FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
